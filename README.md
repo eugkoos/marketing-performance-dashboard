@@ -1,4 +1,4 @@
-# 📊 Marketing Campaign Performance Dashboard
+# Marketing Campaign Performance Dashboard
 
 **Author:** Eugene Kostiuchenko  
 **Role:** Junior BI Analyst & Data Analyst  
